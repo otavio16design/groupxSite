@@ -121,7 +121,7 @@ FACEBOOK: https://www.facebook.com/themefisher
                   </li>
                   <li class="header-get-a-quote">
                     <a class="btn btn-primary" target="_blank" href="https://api.whatsapp.com/send?phone=5519986017822&text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consultoria!">Agendamento</a>
-                    <a class="btn" href="indexen.html"> <img src="images/bandeira-estados-unidos.png"></a>
+                    <a class="btn" href="indexen.php"> <img src="images/bandeira-estados-unidos.png"></a>
                   </li>
                 </ul>
                 <!-- Ul end -->

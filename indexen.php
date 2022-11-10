@@ -725,7 +725,7 @@ FACEBOOK: https://www.facebook.com/themefisher
               <div class="ts-pricing-header">
                 <h2 class="ts-pricing-name">Plano Premium</h2>
                 <h2 class="ts-pricing-price">
-                  <span class="currency">$</span><strong>2.361,25</strong><small style="text-transform: lowercase;">x12</small>
+                  <span class="currency">$</span><strong>439.21</strong><small style="text-transform: lowercase;">x12</small>
                 </h2>
               </div><!-- Pricing header -->
               <div class="ts-pricing-features">
