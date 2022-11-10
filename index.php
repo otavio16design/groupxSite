@@ -68,8 +68,7 @@ FACEBOOK: https://www.facebook.com/themefisher
           <div class="col-lg-8 col-md-8">
             <ul class="top-info text-center text-md-left">
               <li><i class="fas fa-map-marker-alt"></i>
-                <a
-                  href="https://www.google.com.br/maps/dir//Av.+Brasil+Sul,+2000+-+Parque+Res.+Nardini,+Americana+-+SP,+13468-390/@-22.7587072,-47.3882339,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x94c8995fcb110c9b:0x77330102d1045b2b!2m2!1d-47.3520501!2d-22.7593945!3e0">
+                <a href="https://www.google.com.br/maps/dir//Av.+Brasil+Sul,+2000+-+Parque+Res.+Nardini,+Americana+-+SP,+13468-390/@-22.7587072,-47.3882339,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x94c8995fcb110c9b:0x77330102d1045b2b!2m2!1d-47.3520501!2d-22.7593945!3e0">
                   <p class="info-text">Av. Brasil, 2000 - Parque Res. Nardini, Americana - SP</p>
                 </a>
               </li>
@@ -108,7 +107,7 @@ FACEBOOK: https://www.facebook.com/themefisher
                     <div class="info-box">
                       <div class="info-box-content">
                         <p class="info-box-title">Fale Conosco</p>
-                        <p class="info-box-subtitle">(19) 9121-9359</p>
+                        <p class="info-box-subtitle">(19) 98601-7822</p>
                       </div>
                     </div>
                   </li>
@@ -121,8 +120,7 @@ FACEBOOK: https://www.facebook.com/themefisher
                     </div>
                   </li>
                   <li class="header-get-a-quote">
-                    <a class="btn btn-primary"
-                      href="https://api.whatsapp.com/send?phone=5519991219359&text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consultoria!">Agendamento</a>
+                    <a class="btn btn-primary" target="_blank" href="https://api.whatsapp.com/send?phone=5519986017822&text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consultoria!">Agendamento</a>
                     <a class="btn" href="indexen.html"> <img src="images/bandeira-estados-unidos.png"></a>
                   </li>
                 </ul>
@@ -143,16 +141,14 @@ FACEBOOK: https://www.facebook.com/themefisher
           <div class="row">
             <div class="col-lg-12">
               <nav class="navbar navbar-expand-lg navbar-dark p-0">
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse"
-                  aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
                 </button>
 
                 <div id="navbar-collapse" class="collapse navbar-collapse">
                   <ul class="nav navbar-nav mr-auto">
                     <li class="nav-item dropdown">
-                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Empresa <i
-                          class="fa fa-angle-down"></i></a>
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Empresa <i class="fa fa-angle-down"></i></a>
                       <ul class="dropdown-menu" role="menu">
                         <li><a href="#call-to-action-box">Sobre Nós</a></li>
                         <li><a href="#ts-team">Equipe</a></li>
@@ -208,8 +204,7 @@ FACEBOOK: https://www.facebook.com/themefisher
                 <h3 class="slide-sub-title" data-animation-in="slideInRight">Construção e Reconstrução de Empresas</h3>
                 <p data-animation-in="slideInLeft" data-duration-in="1.2">
                   <a href="#ts-service-area" class="slider btn btn-primary">Nossos Serviços</a>
-                  <a href="https://api.whatsapp.com/send?phone=5519991219359&text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consultoria!"
-                    class="slider btn btn-primary">Fale Conosco</a>
+                  <a target="_blank" href="https://api.whatsapp.com/send?phone=5519986017822&text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consultoria!" class="slider btn btn-primary">Fale Conosco</a>
                 </p>
               </div>
             </div>
@@ -241,8 +236,7 @@ FACEBOOK: https://www.facebook.com/themefisher
                 <h3 class="slide-sub-title" data-animation-in="fadeIn">Lótus Tech Consoltoria</h3>
                 <p class="slider-description lead" data-animation-in="slideInRight">Nascer, renascer e florescer.</p>
                 <div data-animation-in="slideInLeft">
-                  <a href="https://api.whatsapp.com/send?phone=5519991219359&text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consultoria!"
-                    class="slider btn btn-primary" aria-label="contact-with-us">Fale Conosco</a>
+                  <a target="_blank" href="https://api.whatsapp.com/send?phone=5519986017822&text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consultoria!" class="slider btn btn-primary" aria-label="contact-with-us">Fale Conosco</a>
                   <!-- <a href="about.html" class="slider btn btn-primary" aria-label="learn-more-about-us">Leia Mais</a> -->
                 </div>
               </div>
@@ -353,15 +347,13 @@ FACEBOOK: https://www.facebook.com/themefisher
               <div class="card">
                 <div class="card-header p-0 bg-transparent" id="headingOne">
                   <h2 class="mb-0">
-                    <button class="btn btn-block text-left" type="button" data-toggle="collapse"
-                      data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                    <button class="btn btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                       Missão
                     </button>
                   </h2>
                 </div>
 
-                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
-                  data-parent="#our-values-accordion">
+                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#our-values-accordion">
                   <div class="card-body">
                     Nascer e renascer projetos vitoriosos.
                   </div>
@@ -370,8 +362,7 @@ FACEBOOK: https://www.facebook.com/themefisher
               <div class="card">
                 <div class="card-header p-0 bg-transparent" id="headingTwo">
                   <h2 class="mb-0">
-                    <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse"
-                      data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                       Visão
                     </button>
                   </h2>
@@ -385,14 +376,12 @@ FACEBOOK: https://www.facebook.com/themefisher
               <div class="card">
                 <div class="card-header p-0 bg-transparent" id="headingThree">
                   <h2 class="mb-0">
-                    <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse"
-                      data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                       Valores
                     </button>
                   </h2>
                 </div>
-                <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
-                  data-parent="#our-values-accordion">
+                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#our-values-accordion">
                   <div class="card-body">
                     Honestidade, confiança e inovação são as chaves da vitória.
                   </div>
@@ -547,14 +536,13 @@ FACEBOOK: https://www.facebook.com/themefisher
               <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;healthcare&quot;]">
                 <div class="project-img-container">
                   <a class="gallery-popup" href="images/projects/logo_groupx.png" aria-label="project-img">
-                    <img style="padding: 50px; background-color: white;" class="img-fluid"
-                      src="images/projects/logo_groupx.png" alt="project-img">
+                    <img style="padding: 50px; background-color: white;" class="img-fluid" src="images/projects/logo_groupx.png" alt="project-img">
                     <span class="gallery-icon"><i class="fa fa-plus"></i></span>
                   </a>
                   <div class="project-item-info">
                     <div class="project-item-info-content">
                       <h3 class="project-item-title">
-                        <a href="projects-single.html">Logo GroupX</a>
+                        <a href="">Logo GroupX</a>
                       </h3>
                       <p class="project-cat">GroupX Commerce</p>
                     </div>
@@ -563,18 +551,16 @@ FACEBOOK: https://www.facebook.com/themefisher
               </div>
               <!-- shuffle item 2 end -->
 
-              <div class="col-lg-4 col-md-6 shuffle-item"
-                data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
+              <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
                 <div class="project-img-container">
-                  <a class="gallery-popup" href="images/projects/cartao_frente.png" aria-label="project-img">
-                    <img style="padding: 30px; background-color: white;" class="img-fluid"
-                      src="images/projects/cartao_frente.png" alt="project-img">
+                  <a class="gallery-popup" href="images/projects/mockup_cartao_group.png" aria-label="project-img">
+                    <img style="padding: 30px; background-color: white;" class="img-fluid" src="images/projects/mockup_cartao_group.png" alt="project-img">
                     <span class="gallery-icon"><i class="fa fa-plus"></i></span>
                   </a>
                   <div class="project-item-info">
                     <div class="project-item-info-content">
                       <h3 class="project-item-title">
-                        <a href="projects-single.html">Cartão de Visita(frente) GroupX Commerce</a>
+                        <a href="">Cartão de Visita GroupX Commerce</a>
                       </h3>
                       <p class="project-cat">GroupX Commerce</p>
                     </div>
@@ -585,18 +571,16 @@ FACEBOOK: https://www.facebook.com/themefisher
 
               <!-- shuffle item 4 end -->
 
-              <div class="col-lg-4 col-md-6 shuffle-item"
-                data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
+              <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
                 <div class="project-img-container">
-                  <a class="gallery-popup" href="images/projects/flyer_frente.png" aria-label="project-img">
-                    <img style="padding: 30px; background-color: white;" class="img-fluid"
-                      src="images/projects/flyer_frente.png" alt="project-img">
+                  <a class="gallery-popup" href="images/projects/mockup_flyer_groupx.png" aria-label="project-img">
+                    <img style="padding: 30px; background-color: white;" class="img-fluid" src="images/projects/mockup_flyer_groupx.png" alt="project-img">
                     <span class="gallery-icon"><i class="fa fa-plus"></i></span>
                   </a>
                   <div class="project-item-info">
                     <div class="project-item-info-content">
                       <h3 class="project-item-title">
-                        <a href="projects-single.html">Flyer(frente) GroupX Commerce</a>
+                        <a href="">Flyer GroupX Commerce</a>
                       </h3>
                       <p class="project-cat">GroupX Commerce</p>
                     </div>
@@ -607,33 +591,29 @@ FACEBOOK: https://www.facebook.com/themefisher
               <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;government&quot;,&quot;healthcare&quot;]">
                 <div class="project-img-container">
                   <a class="gallery-popup" href="images/projects/groupx.png" aria-label="project-img">
-                    <img style="padding: 80px; background-color: white;" class="img-fluid"
-                      src="images/projects/logo_groupx_responsivo.png" alt="project-img">
+                    <img style="padding: 80px; background-color: white;" class="img-fluid" src="images/projects/logo_groupx_responsivo.png" alt="project-img">
                     <span class="gallery-icon"><i class="fa fa-plus"></i></span>
                   </a>
                   <div class="project-item-info">
                     <div class="project-item-info-content">
                       <h3 class="project-item-title">
-                        <a href="projects-single.html">Logo GroupX Responsivo</a>
+                        <a href="">Logo GroupX Responsivo</a>
                       </h3>
                       <p class="project-cat">GroupX Commerce</p>
                     </div>
                   </div>
                 </div>
               </div>
-
-              <div class="col-lg-4 col-md-6 shuffle-item"
-                data-groups="[&quot;education&quot;,&quot;infrastructure&quot;]">
+              <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;education&quot;,&quot;infrastructure&quot;]">
                 <div class="project-img-container">
-                  <a class="gallery-popup" href="images/projects/cartao_verso.png" aria-label="project-img">
-                    <img style="padding: 30px; background-color: white;" class="img-fluid"
-                      src="images/projects/cartao_verso.png" alt="project-img">
+                  <a class="gallery-popup" href="images/projects/cartao_pronto.png" aria-label="project-img">
+                    <img style="padding: 30px; background-color: white;" class="img-fluid" src="images/projects/cartao_pronto.png" alt="project-img">
                     <span class="gallery-icon"><i class="fa fa-plus"></i></span>
                   </a>
                   <div class="project-item-info">
                     <div class="project-item-info-content">
                       <h3 class="project-item-title">
-                        <a href="projects-single.html">Cartão de Visita(verso) GroupX Commerce</a>
+                        <a href="">Cartão de Visita GroupX Commerce</a>
                       </h3>
                       <p class="project-cat">GroupX Commerce</p>
                     </div>
@@ -643,15 +623,14 @@ FACEBOOK: https://www.facebook.com/themefisher
 
               <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;residential&quot;]">
                 <div class="project-img-container">
-                  <a class="gallery-popup" href="images/projects/flyer_verso.png" aria-label="project-img">
-                    <img style="padding: 30px; background-color: white;" class="img-fluid"
-                      src="images/projects/flyer_verso.png" alt="project-img">
+                  <a class="gallery-popup" href="images/projects/mockup_flyer_groupx2.png" aria-label="project-img">
+                    <img style="padding: 30px; background-color: white;" class="img-fluid" src="images/projects/mockup_flyer_groupx2.png" alt="project-img">
                     <span class="gallery-icon"><i class="fa fa-plus"></i></span>
                   </a>
                   <div class="project-item-info">
                     <div class="project-item-info-content">
                       <h3 class="project-item-title">
-                        <a href="projects-single.html">Flyer(verso) GroupX Commerce</a>
+                        <a href="">Flyer GroupX Commerce</a>
                       </h3>
                       <p class="project-cat">GroupX Commerce</p>
                     </div>
@@ -662,6 +641,7 @@ FACEBOOK: https://www.facebook.com/themefisher
             </div>
             <!-- shuffle end -->
           </div>
+
 
           <div class="col-12">
             <div class="general-btn text-center">
@@ -680,8 +660,8 @@ FACEBOOK: https://www.facebook.com/themefisher
       <div class="container">
         <div class="row text-center">
           <div class="col-12">
-            <h2 class="section-title">Escolha o pacote perfeito para você</h2>
-            <h3 class="section-sub-title">Pacotes Simples</h3>
+            <!-- <h2 class="section-title">Escolha o pacote perfeito para você</h2> -->
+            <h3 class="section-sub-title">Escolha o pacote perfeito para você</h3>
           </div>
         </div>
         <!--/ Title row end -->
@@ -691,23 +671,20 @@ FACEBOOK: https://www.facebook.com/themefisher
           <div class="col-lg-4 col-md-6">
             <div class="ts-pricing-box">
               <div class="ts-pricing-header">
-                <h2 class="ts-pricing-name">Consultoria Simples</h2>
+                <h2 class="ts-pricing-name">Plano Basic</h2>
                 <h2 class="ts-pricing-price">
-                  <span class="currency">R$</span><strong>479.90</strong><small>3 Consultas</small>
+                  <span class="currency">R$</span><strong>1.204,33</strong><small style="text-transform: lowercase;">x12</small>
                 </h2>
               </div><!-- Pricing header -->
               <div class="ts-pricing-features">
-                <ul class="list-unstyled">
-                  <li>Project Management for Owners</li>
-                  <li>Pre-construction feasibility</li>
-                  <li>On-site representation</li>
-                  <li>Quality control inspections</li>
-                  <li>Schedule claim preparation/defense</li>
-                  <li>Project phasing development</li>
+                <ul style="height: 450px !important;" class="list-unstyled">
+                  <li>Consultoria</li>
+                  <li>Marketing</li>
+                  <li>Infraestrutura</li>
                 </ul>
               </div><!-- Features end -->
               <div class="plan-action">
-                <a href="#" class="btn btn-dark">Comprar Agora</a>
+                <a target="_blank" href="https://api.whatsapp.com/send?phone=5519986017822&text=Ol%C3%A1%2C%20gostaria%20de%20contratar%20o%20plano%20b%C3%A1sico!" class="btn btn-dark">Comprar Agora</a>
               </div>
             </div><!-- Plan 1 end -->
           </div><!-- Col end -->
@@ -715,23 +692,21 @@ FACEBOOK: https://www.facebook.com/themefisher
           <div class="col-lg-4 col-md-6">
             <div class="ts-pricing-box ts-pricing-featured">
               <div class="ts-pricing-header">
-                <h2 class="ts-pricing-name">Sistema</h2>
+                <h2 class="ts-pricing-name">Plano Medium</h2>
                 <h2 class="ts-pricing-price">
-                  <span class="currency">R$</span><strong>789.90</strong><small>Mensal</small>
+                  <span class="currency">R$</span><strong>1.458,02</strong><small style="text-transform: lowercase;">x12</small>
                 </h2>
               </div><!-- Pricing header -->
               <div class="ts-pricing-features">
-                <ul class="list-unstyled">
-                  <li>Project Management for Owners</li>
-                  <li>Pre-construction feasibility</li>
-                  <li>On-site representation</li>
-                  <li>Quality control inspections</li>
-                  <li>Schedule claim preparation/defense</li>
-                  <li>Project phasing development</li>
+                <ul style="height: 450px !important;" class="list-unstyled">
+                  <li>Consultoria</li>
+                  <li>Marketing</li>
+                  <li>Infraestrutura</li>
+                  <li>Site</li>
                 </ul>
               </div><!-- Features end -->
               <div class="plan-action">
-                <a href="#" class="btn btn-primary">Comprar Agora</a>
+                <a target="_blank" href="https://api.whatsapp.com/send?phone=5519986017822&text=Ol%C3%A1%2C%20gostaria%20de%20contratar%20o%20plano%20medium!" class="btn btn-primary">Comprar Agora</a>
               </div>
             </div><!-- Plan 2 end -->
           </div><!-- Col end -->
@@ -739,23 +714,23 @@ FACEBOOK: https://www.facebook.com/themefisher
           <div class="col-lg-4 col-md-6">
             <div class="ts-pricing-box">
               <div class="ts-pricing-header">
-                <h2 class="ts-pricing-name">Criação de Marca</h2>
+                <h2 class="ts-pricing-name">Plano Premium</h2>
                 <h2 class="ts-pricing-price">
-                  <span class="currency">R$</span><strong>1199.99</strong><small>Kit Completo</small>
+                  <span class="currency">R$</span><strong>2.361,25</strong><small style="text-transform: lowercase;">x12</small>
                 </h2>
               </div><!-- Pricing header -->
               <div class="ts-pricing-features">
-                <ul class="list-unstyled">
-                  <li>Logo</li>
-                  <li>Flyer</li>
-                  <li>Cartão de Visita</li>
-                  <li>Instagram</li>
-                  <li>Artes</li>
-                  <li>Promoções</li>
+                <ul style="height: 450px !important;" class="list-unstyled">
+                  <li>Consultoria</li>
+                  <li>Marketing</li>
+                  <li>Infraestrutura</li>
+                  <li>Site</li>
+                  <li>Sistema</li>
+                  <li>Suporte</li>
                 </ul>
               </div><!-- Features end -->
               <div class="plan-action">
-                <a href="#" class="btn btn-dark">Comprar Agora</a>
+                <a target="_blank" href="https://api.whatsapp.com/send?phone=5519986017822&text=Ol%C3%A1%2C%20gostaria%20de%20contratar%20o%20plano%20Premium!" class="btn btn-dark">Comprar Agora</a>
               </div>
             </div><!-- Plan 3 end -->
           </div><!-- Col end -->
@@ -774,7 +749,7 @@ FACEBOOK: https://www.facebook.com/themefisher
           <div class="col-lg-4">
             <div class="subscribe-call-to-acton">
               <h3>Fale Conosco</h3>
-              <h4>(19) 9121-9359</h4>
+              <h4>(19) 98601-7822</h4>
             </div>
           </div>
           <!-- Col end -->
@@ -785,9 +760,7 @@ FACEBOOK: https://www.facebook.com/themefisher
                 <h4 class="text-white mb-0">Alguma dúvida?</h4>
                 <p class="text-white">Entre em contato</p>
               </div>
-              <a class="btn btn-success"
-                href="https://api.whatsapp.com/send?phone=5519991219359&text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consultoria!"><i
-                  class="fab fa-whatsapp"></i> WhatsApp</a>
+              <a class="btn btn-success" target="_blank" href="https://api.whatsapp.com/send?phone=5519991219359&text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consultoria!"><i class="fab fa-whatsapp"></i> WhatsApp</a>
               <div class="col-md-7 newsletter-form">
                 <form action="#" method="post">
                   <div class="form-group">
@@ -825,7 +798,7 @@ FACEBOOK: https://www.facebook.com/themefisher
                   </div>
                   <div class="ts-team-content">
                     <h3 class="ts-name">Guilherme Maretti</h3>
-                    <p class="ts-designation">Diretor administrativo</p>
+                    <p class="ts-designation">Diretor Administrativo</p>
                     <!-- <p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p> -->
                     <div class="team-social-icons">
                       <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
@@ -861,7 +834,7 @@ FACEBOOK: https://www.facebook.com/themefisher
                   </div>
                   <div class="ts-team-content">
                     <h3 class="ts-name">Otávio Montalvão</h3>
-                    <p class="ts-designation">Gestor de Projetos</p>
+                    <p class="ts-designation">Diretor de Projetos</p>
                     <!-- <p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p> -->
 
                     <div class="team-social-icons">
@@ -894,10 +867,8 @@ FACEBOOK: https://www.facebook.com/themefisher
                 entender seu problema e encontrar soluções práticas para resolvê-los.</p>
               <div class="footer-social">
                 <ul>
-                  <li><a href="https://www.instagram.com/lotus_consutech/" aria-label="Instagram"><i
-                        class="fab fa-instagram"></i></a></li>
-                  <li><a href="https://br.linkedin.com/in/l%C3%B3tus-tech-consultoria-11b838252"
-                      aria-label="Linkedin"><i class="fab fa-linkedin"></i></a></li>
+                  <li><a href="https://www.instagram.com/lotus_consutech/" aria-label="Instagram"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="https://br.linkedin.com/in/l%C3%B3tus-tech-consultoria-11b838252" aria-label="Linkedin"><i class="fab fa-linkedin"></i></a></li>
                 </ul>
               </div>
               <!-- Footer social end -->
