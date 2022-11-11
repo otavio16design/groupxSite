@@ -680,9 +680,9 @@ FACEBOOK: https://www.facebook.com/themefisher
           <div class="col-lg-4 col-md-6">
             <div class="ts-pricing-box">
               <div class="ts-pricing-header">
-                <h2 class="ts-pricing-name">Plano Basic</h2>
+                <h2 class="ts-pricing-name">Plan Basic</h2>
                 <h2 class="ts-pricing-price">
-                  <span class="currency">$</span><strong>224.02</strong><small style="text-transform: lowercase;">x12</small>
+                  <span class="currency">$</span><strong>265.91</strong><small style="text-transform: lowercase;">x12</small>
                 </h2>
               </div><!-- Pricing header -->
               <div class="ts-pricing-features">
@@ -701,9 +701,9 @@ FACEBOOK: https://www.facebook.com/themefisher
           <div class="col-lg-4 col-md-6">
             <div class="ts-pricing-box ts-pricing-featured">
               <div class="ts-pricing-header">
-                <h2 class="ts-pricing-name">Plano Medium</h2>
+                <h2 class="ts-pricing-name">Plan Medium</h2>
                 <h2 class="ts-pricing-price">
-                  <span class="currency">$</span><strong>271.21</strong><small style="text-transform: lowercase;">x12</small>
+                  <span class="currency">$</span><strong>321.93</strong><small style="text-transform: lowercase;">x12</small>
                 </h2>
               </div><!-- Pricing header -->
               <div class="ts-pricing-features">
@@ -723,9 +723,9 @@ FACEBOOK: https://www.facebook.com/themefisher
           <div class="col-lg-4 col-md-6">
             <div class="ts-pricing-box">
               <div class="ts-pricing-header">
-                <h2 class="ts-pricing-name">Plano Premium</h2>
+                <h2 class="ts-pricing-name">Plan Premium</h2>
                 <h2 class="ts-pricing-price">
-                  <span class="currency">$</span><strong>439.21</strong><small style="text-transform: lowercase;">x12</small>
+                  <span class="currency">$</span><strong>521.36</strong><small style="text-transform: lowercase;">x12</small>
                 </h2>
               </div><!-- Pricing header -->
               <div class="ts-pricing-features">
@@ -810,7 +810,8 @@ FACEBOOK: https://www.facebook.com/themefisher
                   <div class="ts-team-content">
                     <h3 class="ts-name">Guilherme Maretti</h3>
                     <p style="width: 400px;" class="ts-designation">Administrative Director</p>
-                    <!-- <p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p> -->
+                    <p class="ts-description">
+Directs, plans, organizes and controls the activities, plans and programs of the company's administrative areas</p>
                     <div class="team-social-icons">
                       <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
                     </div>
@@ -827,7 +828,8 @@ FACEBOOK: https://www.facebook.com/themefisher
                   <div class="ts-team-content">
                     <h3 class="ts-name">Luana de Araújo Nascimento</h3>
                     <p class="ts-designation">Product Owner</p>
-                    <!-- <p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p> -->
+                    <p class="ts-description">
+Coordinates and redirects the client's needs to the company's sectors, making decisions in order to guarantee the best delivery to the project requester.</p>
                     <div class="team-social-icons">
                       <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
                     </div>
@@ -846,7 +848,7 @@ FACEBOOK: https://www.facebook.com/themefisher
                   <div class="ts-team-content">
                     <h3 class="ts-name">Otávio Montalvão</h3>
                     <p class="ts-designation">Project Director</p>
-                    <!-- <p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p> -->
+                    <p class="ts-description">He plans and coordinates the execution of projects in the sectors he manages, being responsible for them from start to finish.</p>
 
                     <div class="team-social-icons">
                       <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>

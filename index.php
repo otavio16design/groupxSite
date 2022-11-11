@@ -673,7 +673,7 @@ FACEBOOK: https://www.facebook.com/themefisher
               <div class="ts-pricing-header">
                 <h2 class="ts-pricing-name">Plano Basic</h2>
                 <h2 class="ts-pricing-price">
-                  <span class="currency">R$</span><strong>1.204,33</strong><small style="text-transform: lowercase;">x12</small>
+                  <span class="currency">R$</span><strong>1.416,86</strong><small style="text-transform: lowercase;">x12</small>
                 </h2>
               </div><!-- Pricing header -->
               <div class="ts-pricing-features">
@@ -694,7 +694,7 @@ FACEBOOK: https://www.facebook.com/themefisher
               <div class="ts-pricing-header">
                 <h2 class="ts-pricing-name">Plano Medium</h2>
                 <h2 class="ts-pricing-price">
-                  <span class="currency">R$</span><strong>1.458,02</strong><small style="text-transform: lowercase;">x12</small>
+                  <span class="currency">R$</span><strong>1.715,32</strong><small style="text-transform: lowercase;">x12</small>
                 </h2>
               </div><!-- Pricing header -->
               <div class="ts-pricing-features">
@@ -716,7 +716,7 @@ FACEBOOK: https://www.facebook.com/themefisher
               <div class="ts-pricing-header">
                 <h2 class="ts-pricing-name">Plano Premium</h2>
                 <h2 class="ts-pricing-price">
-                  <span class="currency">R$</span><strong>2.361,25</strong><small style="text-transform: lowercase;">x12</small>
+                  <span class="currency">R$</span><strong>2.777,94</strong><small style="text-transform: lowercase;">x12</small>
                 </h2>
               </div><!-- Pricing header -->
               <div class="ts-pricing-features">
@@ -799,7 +799,7 @@ FACEBOOK: https://www.facebook.com/themefisher
                   <div class="ts-team-content">
                     <h3 class="ts-name">Guilherme Maretti</h3>
                     <p class="ts-designation">Diretor Administrativo</p>
-                    <!-- <p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p> -->
+                    <p class="ts-description">Dirige, planeja, organiza e controla as atividades, planos e programas das áreas administrativas da empresa</p>
                     <div class="team-social-icons">
                       <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
                     </div>
@@ -816,7 +816,7 @@ FACEBOOK: https://www.facebook.com/themefisher
                   <div class="ts-team-content">
                     <h3 class="ts-name">Luana de Araújo Nascimento</h3>
                     <p class="ts-designation">Product Owner</p>
-                    <!-- <p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p> -->
+                    <p class="ts-description">Coordena e redireciona as necessidades do cliente aos setores da empresa, tomando decisões de forma a garantir a melhor entrega ao solicitante do projeto.</p>
                     <div class="team-social-icons">
                       <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
                     </div>
@@ -835,7 +835,7 @@ FACEBOOK: https://www.facebook.com/themefisher
                   <div class="ts-team-content">
                     <h3 class="ts-name">Otávio Montalvão</h3>
                     <p class="ts-designation">Diretor de Projetos</p>
-                    <!-- <p class="ts-description">Nats Stenman began his career in construction with boots on the ground</p> -->
+                    <p class="ts-description">Planeja e coordena a execução dos projetos dos setores que gerencia, sendo responsável por eles do início ao fim.</p>
 
                     <div class="team-social-icons">
                       <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
